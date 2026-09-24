@@ -8,6 +8,7 @@ OPLINK oficial de alta performance da unidade **OdontoCompany Santa Terezinha** 
 - **Endereço:** Rua Pedro Álvares Cabral, 175 - Santa Terezinha, Santo André - SP, CEP 09210-780
 - **WhatsApp Oficial:** (11) 94009-3486
 - **Telefone:** (11) 2866-7065
+- **Site Oficial / LP:** [https://lpsantaterezinha.vercel.app/](https://lpsantaterezinha.vercel.app/)
 - **Instagram:** [@odontocompany_santaterezinha](https://www.instagram.com/odontocompany_santaterezinha/)
 
 ## ⚡ Stack Tecnológica & Performance
