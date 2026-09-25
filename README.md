@@ -4,7 +4,7 @@ OPLINK oficial de alta performance da unidade **OdontoCompany Santa Terezinha** 
 
 ## 📌 Informações da Unidade
 - **Unidade:** OdontoCompany Santa Terezinha
-- **Responsável Técnica:** Dra. Larissa Queiroz de Almeida (CRO-SP 142.776 / CRO Clínica 023074)
+- **Responsável Técnico:** Dr. Wagner Alves Pereira (CRO SP-133012)
 - **Endereço:** Rua Pedro Álvares Cabral, 175 - Santa Terezinha, Santo André - SP, CEP 09210-780
 - **WhatsApp Oficial:** (11) 94009-3486
 - **Telefone:** (11) 2866-7065
